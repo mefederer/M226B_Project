@@ -4,9 +4,7 @@ package model;
 import controller.GameController;
 import processing.core.PApplet;
 public class Collision extends PApplet {
-	
-	
-	
+
 /**
  * Schwierigkeitsgrad 
  * Erhöht den Speed der fallenden Objekte um 2 immer dann, wenn 10 Punkte dazu gekommen sind	
